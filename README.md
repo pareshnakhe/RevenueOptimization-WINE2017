@@ -11,6 +11,6 @@ This code compares the performance of various price update rules in a CES gross 
 The relative performance of these approaches is measured in terms of the excess demand (demand - supply) and revenue. With the obtained plots, we can also empirically compare how fast the dynamic converges to equilibrium.
 
 Additional details can be found here:
-http://lcm.csa.iisc.ernet.in/wine2017/
-https://link.springer.com/book/10.1007%2F978-3-319-71924-5
-https://www.youtube.com/watch?v=dlRf4Q-205M&t=0s&list=PLoPqhV1N_AmrE19QiS8OB0IHHTJyqRLKZ&index=2
+1. http://lcm.csa.iisc.ernet.in/wine2017/
+2. https://link.springer.com/book/10.1007%2F978-3-319-71924-5
+3. https://www.youtube.com/watch?v=dlRf4Q-205M&t=0s&list=PLoPqhV1N_AmrE19QiS8OB0IHHTJyqRLKZ&index=2
